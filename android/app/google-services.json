@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472711786412",
+    "project_id": "photo-hub-211ae",
+    "storage_bucket": "photo-hub-211ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472711786412:android:5deb2861d6f94416e35409",
+        "android_client_info": {
+          "package_name": "com.example.photo_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHHfokwnX3_C_5w5b0BbTuAqc3FclrRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
